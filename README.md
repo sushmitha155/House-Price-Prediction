@@ -62,21 +62,7 @@ To build and evaluate a Linear Regression model to predict house prices using fe
 - Learned how to evaluate a regression model using various metrics
 - Explored real-world data preprocessing and feature encoding
 
-## 📝 Interview Questions Prepared
-- Assumptions of Linear Regression
-- When to use MSE vs MAE
-- Difference between simple and multiple regression
-- Use of R² score
-- Detecting multicollinearity
-- Can Linear Regression be used for classification?
 
-## 📷 Screenshots
 
-*(Include screenshots of code output/graphs if required)*
-
-## 🔗 Submission
-Submitted via the official form: [Google Form Link](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
----
 
 ### ✨ Thank you Elevate Labs for this learning opportunity!
